@@ -12,6 +12,8 @@ Inventors screening task
 - **Orchestration**: Docker Compose
 
 ---
+P.S: I had to create a gitignore file because the folders were too big, but I dont really think I needed it.
+I learnt the basics of docker while doing this and have an improved understaning of yml files so i enjoyed it
 
 ## ✅ Completed Tasks
 
